@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+.text-title {
+    font-family: 'Pacifico', cursive;
+    font-size: 3cm;
+}
+
+.bg-title {
+    background-image: linear-gradient(to bottom right, #fff200, #fffa65);
+}
