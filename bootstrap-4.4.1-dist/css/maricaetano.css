@@ -1,0 +1,35 @@
+            @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+        .text-title {
+            font-family: 'Pacifico', cursive;
+            font-size: 3cm;
+        }
+        
+        .bg-title {
+            background-image: linear-gradient(to bottom right, #ED4C67, #fffa65);
+            background: url("banner.jpg") center center no-repeat;
+        }
+        
+        .form-control {
+            font-family: 'raleway', 'sans-serif';
+            font-size: 1.2em;
+            color: #3867d6;
+        }
+        
+        .btn-mari {
+            color: #fff;
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+        
+        .btn-mari:hover {
+            color: #fff;
+            background-color: #0069d9;
+            border-color: #0062cc;
+        }
+        
+        .btn-mari:focus,
+        .btn-mari.focus {
+            color: #fff;
+            background-color: #0069d9;
+            border-color: #0062cc;
+            box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
