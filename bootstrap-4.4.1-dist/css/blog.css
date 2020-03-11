@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
+.text-title {
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.5cm;
+}
+
+.text-title {
+    background: url("iStock-871148930-1440x564_c.jpg");
+    color: white
+}
