@@ -1,10 +1,17 @@
-@import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
 .text-title {
-    font-family: 'Fredoka One', cursive;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-size: 1.5cm;
 }
 
-.text-title {
-    background: url("iStock-871148930-1440x564_c.jpg");
-    color: white
+.form-group {
+    color: white;
+}
+
+.perfil {
+    color: white;
+}
+
+.texto {
+    color: rgb(14, 188, 231)
 }
