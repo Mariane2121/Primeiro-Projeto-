@@ -1,27 +1,52 @@
-    @import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
-    .text-title {
-        font-family: 'Anton', sans-serif;
-        font-size: 1.5cm;
-    }
-    
-    .form-group {
-        color: white;
-    }
-    
-    .perfil {
-        color: white;
-    }
-    
-    @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
-    .text-img {
-        font-family: 'Open Sans Condensed', sans-serif;
-        font-size: 0.9cm;
-    }
-    
-    .titulo {
-        color: #87CEFA;
-    }
-    
-    .texto {
-        color: #66CDAA;
-    }
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+.text-title {
+    font-family: 'Lobster', cursive;
+    font-size: 1.5cm;
+}
+
+.form-group {
+    color: white;
+}
+
+.perfil {
+    color: white;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
+.text-img {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 0.6cm;
+    color: #FFFF00;
+}
+
+.titulo {
+    color: #FFFF00;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Bellota&display=swap');
+.texto {
+    font-family: 'Bellota', cursive;
+    color: #66CDAA;
+}
+
+.ads {
+    color: #00FFFF;
+}
+
+#copyright {
+    padding: 25px 0 10px 0;
+    background-color: rgb(26, 26, 65);
+}
+
+#copyright a {
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+#copyright p {
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+    font-family: "Helvetica Neue", sans-serif;
+}
